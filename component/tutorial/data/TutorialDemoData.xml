@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    <tutorial.Example exampleId="1" exampleName="Ivan" exampleDate="18/02/2002" examplePrice="id"
+                      Quantity="500"/>
+    <tutorial.Example exampleId="2" exampleName="Ivan2" exampleDate="18/02/2002" examplePrice="id"
+                      Quantity="1000"/>
+</entity-facade-xml>
